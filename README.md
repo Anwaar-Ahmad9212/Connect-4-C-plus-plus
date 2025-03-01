@@ -22,4 +22,4 @@ A simple yet structured implementation of the classic **Connect 4** game using *
 ## 📜 Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/connect4-cpp.git
+   git clone https://github.com/Anwaar-Ahmad9212/Connect-4-C-plus-plus
